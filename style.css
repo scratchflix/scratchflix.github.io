@@ -4,5 +4,11 @@
   margin-right: auto;
 }
 body {
-  background-color: #C25E00;
+  background-color: white;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #FF7C00;
+  color: white;
 }
